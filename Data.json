@@ -71,8 +71,14 @@
       {
         "title":"Carting website",
         "category":"This is a website build ",
-        "image":"choicecoin.jpg",
-        "url":"#"
+        "image":"pofripeks.png",
+        "url":"https://pofrishop.netlify.app"
+      },
+      {
+        "title":"Netflix clone",
+        "category":"This is a website build ",
+        "image":"netflixclone.png",
+        "url":"https://netflixclonegwumex.netlify.app"
       }
     ]
   }
