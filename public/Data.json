@@ -16,7 +16,7 @@
       "zip": "(Your Zip/Postal Code)"
     },
     "website": "#",
-    "resumedownload":"https://drive.google.com/file/d/1RXLcWdmfohH2F6vpP4WVjFauBSPxLnWU/view?usp=sharing",
+    "resumedownload":"https://drive.google.com/file/d/1w2J2aLE5c8fqxsqf8-sJNMe7oFPQzJ-L/view?usp=sharing",
     "social":[
       {
         "name":"twitter",
@@ -69,10 +69,16 @@
         "url":"#"
       },
       {
-        "title":"ChoiceCoin voting website",
+        "title":"Carting website",
         "category":"This is a website build ",
-        "image":"choicecoin.jpg",
-        "url":"#"
+        "image":"pofripeks.png",
+        "url":"https://pofrishop.netlify.app"
+      },
+      {
+        "title":"Netflix clone",
+        "category":"This is a website build ",
+        "image":"netflixclone.png",
+        "url":"https://netflixclonegwumex.netlify.app"
       }
     ]
   }

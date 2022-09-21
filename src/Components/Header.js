@@ -43,7 +43,7 @@ class Header extends Component {
 
             <li>
               <a className="smoothscroll" href="#contact">
-              Hire Us
+              Hire Me
               </a>
             </li>
           </ul>
@@ -61,7 +61,10 @@ class Header extends Component {
             <Fade bottom duration={2000}>
               <ul className="social">
                 <a href="#portfolio" className="smoothscroll button btn project-btn">
-                  <i className="fa fa-books"></i>Project
+                <i class="fa fa-solid fa-book"></i>Project
+                </a>
+                <a href="https://github.com/gwumex" className="smoothscroll button btn project-btn">
+                <i class="fa fa-brands fa-github"></i>Github
                 </a>
               </ul>
             </Fade>
