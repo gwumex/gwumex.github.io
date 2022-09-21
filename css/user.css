@@ -1,0 +1,54 @@
+@media (max-width: 800px) {
+
+.gridSmall{
+    display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  
+}
+#about {
+    padding: 0 auto;
+
+
+ }
+ 
+ #about p {
+    line-height: 30px;
+
+ }
+
+
+ #about .main-col { padding-right: 5%; }
+ #about .download .button {
+    margin: auto;
+    background: #444;
+    width: max-content;
+ }
+ #about .download .button i {
+    font-size: 15px;
+ }
+}
+
+@media (min-width: 800px) {
+.item1{
+    width: calc(30% - 20px);
+    height: 150px;
+    margin: 20px;
+    }
+
+.gridSmall{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+    }
+   
+}
+
+.fontawesome{
+    padding-right: 5px;
+}
+    
+ 
+

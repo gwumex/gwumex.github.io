@@ -1,0 +1,79 @@
+{
+  "main": {
+    "name":"Hello There",
+    "description":"I am a web developer, I design incredible digital solutions that are suited to unique company requirements. I design visually amazing digital experiences that help your company stand out from the crowd. For all of your projects, I consider and employ cutting-edge, highly secure solutions",
+    "image":"profilepic.jpg",
+    "bio":" My goal is to help clients improve IT efficiency, increase business profitability, and experience continuous digital transformation by modeling, designing, developing, and deploying the most dependable and efficient software and hardware solutions.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "Send An Email",
+    "phone": "Call Me",
+    "github":"#",
+    "project":"#",
+    "address":{
+      "street":"(Your Street)",
+      "city":"(Your City)",
+      "state":"(Your State)",
+      "zip": "(Your Zip/Postal Code)"
+    },
+    "website": "#",
+    "resumedownload":"https://drive.google.com/file/d/1RXLcWdmfohH2F6vpP4WVjFauBSPxLnWU/view?usp=sharing",
+    "social":[
+      {
+        "name":"twitter",
+        "url":"http://twitter.com/classicdevorg",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/olawunmi-salami-46853a15a/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/gwumex",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"University",
+        "degree":"B.eng Electrical And Electronic Engineering",
+        "graduated":"2020",
+        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      }
+    ],
+    "work":[
+      {
+        "company":"SverseLab",
+        "title":"Web developer",
+        "years":"December 2021 - Present",
+        "description":"Planned website development, converting mockups into usable web presence with HTML, JavaScript, AJAX and Reactjs."
+      },
+      {
+        "company":"ChoiceCoin",
+        "title":"Web developer",
+        "years":"March 2021 - October 2021",
+        "description":""
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"ChoiceCoin voting website",
+        "category":"This is a website build ",
+        "image":"choicecoin.jpg",
+        "url":"#"
+      },
+      {
+        "title":"ChoiceCoin voting website",
+        "category":"This is a website build ",
+        "image":"choicecoin.jpg",
+        "url":"#"
+      }
+    ]
+  }
+}
