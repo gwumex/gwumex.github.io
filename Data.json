@@ -63,12 +63,6 @@
   "portfolio":{
     "projects": [
       {
-        "title":"ChoiceCoin voting website",
-        "category":"This is a website build ",
-        "image":"choicecoin.jpg",
-        "url":"#"
-      },
-      {
         "title":"Carting website",
         "category":"This is a website build ",
         "image":"pofripeks.png",
@@ -79,6 +73,12 @@
         "category":"This is a website build ",
         "image":"netflixclone.png",
         "url":"https://netflixclonegwumex.netlify.app"
+      },
+      {
+        "title":"ChoiceCoin voting website",
+        "category":"This is a website build ",
+        "image":"choicecoin.jpg",
+        "url":"https://github.com/gwumex/choice.git"
       }
     ]
   }
