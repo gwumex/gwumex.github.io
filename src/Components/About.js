@@ -20,7 +20,7 @@ class About extends Component {
     return (
       <section id="about">
         <Fade duration={1000}>
-          <div className="row">
+          <div className="columns align-center">
             {/* <div className="three columns">
               <img
                 className="profile-pic"
@@ -28,11 +28,11 @@ class About extends Component {
                 alt="Profile Pic"
               />
             </div> */}
-            <div className="ten offset-1 row main-col">
+            <div className="row ">
               <h2>About Me</h2>
               <p>{bio}</p>
               <div className="row">
-                <div className="columns contact-details">
+                <div className="">
                   <h2>Contact Details</h2>
                   <p className="address">
                     {/* <span>{name}</span>
