@@ -63,6 +63,12 @@
   "portfolio":{
     "projects": [
       {
+        "title":"Gbank website",
+        "category":"This is a website build ",
+        "image":"Gbank.png",
+        "url":"https://keen-biscuit-d34ae6.netlify.app"
+      },
+      {
         "title":"Carting website",
         "category":"This is a website build ",
         "image":"pofripeks.png",
@@ -79,12 +85,6 @@
         "category":"This is a website build ",
         "image":"choicecoin.jpg",
         "url":"https://github.com/gwumex/choice.git"
-      },
-      {
-        "title":"Gbank website",
-        "category":"This is a website build ",
-        "image":"Gbank.png",
-        "url":"https://keen-biscuit-d34ae6.netlify.app"
       }
     ]
   }
